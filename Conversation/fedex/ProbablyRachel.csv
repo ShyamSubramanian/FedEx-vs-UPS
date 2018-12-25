@@ -1,0 +1,6 @@
+,tweet_id,user_id,user_name,text,time,retweets,favorited,place,geo
+0,1043585276126334977,90045036,ProbablyRachel,Hey @FedEx what’s the deal with delivery drivers dropping packages on my porch and running away without knocking or ringing the bell?,Sat Sep 22 19:38:13 +0000 2018,0,2,,
+1,1043598033760464896,952293073,FedExHelp,"@ProbablyRachel If you would like to customize the delivery of your shipment, please utilize our FedEx Delivery Manager by visiting https://t.co/Wq6KobyJ9V",Sat Sep 22 20:28:55 +0000 2018,0,0,,
+2,1043598128002285568,952293073,FedExHelp,"@ProbablyRachel With FedEx Delivery Manager, you will be able to customize delivery times, provide specific delivery instructions, receive notifications about your shipment, and much more!  -Matt",Sat Sep 22 20:29:17 +0000 2018,0,0,,
+3,1043654475695702016,90045036,ProbablyRachel,@FedExHelp How about you just ring the doorbell?,Sun Sep 23 00:13:11 +0000 2018,0,1,,
+4,1043663637037166592,952293073,FedExHelp,"@ProbablyRachel Hi Rachel this is Andre. We apologize for the inconvenience, as drivers are allowed to release packages that do not require a signature. Some may not automatically ring the bell everytime. Therefore I suggest that you may leave a note on the door stating someone is home.",Sun Sep 23 00:49:36 +0000 2018,0,1,,
